@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #BCCCDC;
+}
+.nav-bar-center li{
+    float: left;
+    margin: 0 5px;
+    list-style-type: none;
+}
+header {
+    background-color: #044E54;
+}
+header {
+    padding-top: 10px;
+}
+header h1 {
+    color: #F0F4F8;
+}
+main {
+    background-color: #BEF8FD;
+    padding: 10px 12px;
+}
+
+article {
+    background-color: #54D1DB;
+}
+footer {
+    background-color: #38BEC9;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+}
+
+.footer-content {
+
+}
